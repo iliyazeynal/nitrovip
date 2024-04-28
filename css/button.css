@@ -1,0 +1,29 @@
+.dark-mode{
+    background-color: black;
+  color: white;
+  color: aliceblue;
+}
+.aaaa{
+    background-color: black;
+    color: white;
+}
+.aaaa:hover{
+    background-color: white;
+    color: black;
+}
+.dark-mode .plan-list{
+    background-color: black;
+    color: white;
+}
+.dark-mode .plan-price{
+    background-color: black;
+    color: white;
+}
+.dark-mode .price-value{
+    background-color: black;
+    color: white;
+}
+.dark-mode.ppp{
+   
+    color: white;
+}
